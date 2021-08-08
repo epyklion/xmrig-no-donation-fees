@@ -3,4 +3,5 @@ XMRIG modified with no donation or dev fees. Built for you already. I might skip
 # Previous releases will be below here (Download from links)
 ## v6.9.0
 Windows: https://upfiles.com/LjB8Sf3
+<br >
 MacOS: https://upfiles.com/02FObd
